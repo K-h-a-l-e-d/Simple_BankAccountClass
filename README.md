@@ -6,7 +6,7 @@ it has two constructors the default one creates the account ID, Customer Name, a
 while the other constructor is a named constructors which initiates the Bank account with ID, Name without a balance ( $0 Balance). 
 
 ## Code Output:
-this Outputs tests the Code in three screnarios:  
+this Output tests the Code in three screnarios:  
 1- Normal Deposit, Withdraw operation.  
 2- Insufficient balance.  
 3- invalid deposit amount input for non-positive values.  
