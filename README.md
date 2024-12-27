@@ -7,8 +7,8 @@ while the other constructor is a named constructors which initiates the Bank acc
 
 ## Code Output:
 this Outputs tests Code the three screnarios: 
-1- Normal Deposit, Withdraw operation
-2- Insufficient balance
-3- invalid deposit amount input for non-positive values
+1- Normal Deposit, Withdraw operation.  
+2- Insufficient balance.  
+3- invalid deposit amount input for non-positive values.  
                               
 ![CodeOutput](https://github.com/user-attachments/assets/6d66724b-d948-4145-af31-a276d3feee5a)
